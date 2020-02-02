@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 5046adc5017828c4ab3f2b6b9f6a56b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8386523722748593532
+    second: DIrtMelon_0
+  - first:
+      213: -8415873790810449995
+    second: DIrtMelon_1
+  - first:
+      213: 1125818832488038860
+    second: DIrtMelon_2
+  - first:
+      213: 4075398251658218752
+    second: DIrtMelon_3
+  - first:
+      213: 2033721948233769241
+    second: DIrtMelon_4
+  - first:
+      213: 109490361297886431
+    second: DIrtMelon_5
+  - first:
+      213: -2171198772111600582
+    second: DIrtMelon_6
+  - first:
+      213: -9096467749667324957
+    second: DIrtMelon_7
+  - first:
+      213: -6845987752964587756
+    second: DIrtMelon_8
+  - first:
+      213: 1451806329049187395
+    second: DIrtMelon_9
+  - first:
+      213: 7957799541619042917
+    second: DIrtMelon_10
+  - first:
+      213: 6779179411605948342
+    second: DIrtMelon_11
+  - first:
+      213: -1418928981997121022
+    second: DIrtMelon_12
+  - first:
+      213: -5139018528401675487
+    second: DIrtMelon_13
+  - first:
+      213: 550215894968922474
+    second: DIrtMelon_14
+  - first:
+      213: -9181347018646280222
+    second: DIrtMelon_15
+  - first:
+      213: 1536833861134759497
+    second: DIrtMelon_16
+  - first:
+      213: -6269014441288354079
+    second: DIrtMelon_17
+  - first:
+      213: 1953724632399248686
+    second: DIrtMelon_18
+  - first:
+      213: -6852467185718302489
+    second: DIrtMelon_19
+  - first:
+      213: 5243806160004527235
+    second: DIrtMelon_20
+  - first:
+      213: 6940813231351672017
+    second: DIrtMelon_21
+  - first:
+      213: -7458916284607522888
+    second: DIrtMelon_22
+  - first:
+      213: -2396857322418708342
+    second: DIrtMelon_23
+  - first:
+      213: -2226960217558706608
+    second: DIrtMelon_24
+  - first:
+      213: -3684526058399504314
+    second: DIrtMelon_25
+  - first:
+      213: -3096510006894174364
+    second: DIrtMelon_26
+  - first:
+      213: 4876676016429099810
+    second: DIrtMelon_27
+  - first:
+      213: 8464280276326538988
+    second: DIrtMelon_28
+  - first:
+      213: 8686394003141826420
+    second: DIrtMelon_29
+  - first:
+      213: -1291448262384290561
+    second: DIrtMelon_30
+  - first:
+      213: -6044594875422778772
+    second: DIrtMelon_31
+  - first:
+      213: 9053161434991635601
+    second: DIrtMelon_32
+  - first:
+      213: 7785679241839925714
+    second: DIrtMelon_33
+  - first:
+      213: -7501319733180663506
+    second: DIrtMelon_34
+  - first:
+      213: -5476098376152964933
+    second: DIrtMelon_35
+  - first:
+      213: -8209859104091066614
+    second: DIrtMelon_36
+  - first:
+      213: -9172229785657237198
+    second: DIrtMelon_37
+  - first:
+      213: -1095218131642851481
+    second: DIrtMelon_38
+  - first:
+      213: 9049651310960794664
+    second: DIrtMelon_39
+  - first:
+      213: -3596483881552493453
+    second: DIrtMelon_40
+  - first:
+      213: -963563948267060785
+    second: DIrtMelon_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DIrtMelon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7501d264eae26470800000000000000
+      internalID: 8386523722748593532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71930606fc43b80800000000000000
+      internalID: -8415873790810449995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 149
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc105e76346bf9f00800000000000000
+      internalID: 1125818832488038860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d06541e19be8830800000000000000
+      internalID: 4075398251658218752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 149
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a368365b393c10800000000000000
+      internalID: 2033721948233769241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc5d7b47ecf48100800000000000000
+      internalID: 109490361297886431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341683683a5ed1e0800000000000000
+      internalID: -2171198772111600582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb384ed6cad2c180800000000000000
+      internalID: -9096467749667324957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ffed7096a2ef0a0800000000000000
+      internalID: -6845987752964587756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 107
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34404ad0a2ad52410800000000000000
+      internalID: 1451806329049187395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a28f75588cf6e60800000000000000
+      internalID: 7957799541619042917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b70a69d1cb741e50800000000000000
+      internalID: 6779179411605948342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2021e82db93fe4ce0800000000000000
+      internalID: -1418928981997121022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 65
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba77840e98ea8b0800000000000000
+      internalID: -5139018528401675487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIrtMelon_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617569f072c2a700800000000000000
+      internalID: 550215894968922474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
